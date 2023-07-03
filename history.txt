@@ -1,0 +1,16 @@
+
+    Directory: C:\Users\jc601810\workspace\Learnings\dev-setups
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           6/19/2020  4:14 PM                functions
+d----           6/19/2020  4:28 PM                public
+d----           6/19/2020  4:28 PM                src
+-a---           5/23/2020  2:44 PM            337 .gitignore
+-a---            7/3/2023 12:31 AM              0 history.txt
+-a---           5/23/2020  2:44 PM             36 netlify.toml
+-a---           5/23/2020  5:11 PM         631684 package-lock.json
+-a---           5/23/2020  5:11 PM           1068 package.json
+-a---           5/23/2020  2:44 PM           2952 README.md
+-a---           5/23/2020  5:09 PM         479667 yarn.lock
+
